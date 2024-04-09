@@ -598,10 +598,7 @@
                       </h6>
                     </div>
                     <p>
-                      A Cardiovascular and Thoracic Surgeon, an Associate Professor of Surgery at Bayero University Kano, Nigeria and a healthcare entrepreneur and a public health/media/digital health & Global surgery enthusiast.
-
-                      Completed a training in Cardiovascular and Thoracic Surgery in 2014 (in Nigeria, Ghana and India) and I offer specialized surgical services, training and research and recently ventured into entrepreneurship after obtaining a Masters in business Administration (specialization in entrepreneurship and venture creation) in 2020. I'm currently pursuing a Master in Public health (specialising in Health promotion and prevention).
-                    </p>
+                      A Cardiovascular and Thoracic Surgeon, an Associate Professor of Surgery and a healthcare entrepreneur. He completed a training in Cardiovascular and Thoracic Surgery in 2014 (in Nigeria, Ghana and India) and he currently offers specialized cardiovascular and Thoracic surgical services, training and research as well as engaging in healthcare entrepreneurship after obtaining a Masters in business Administration (specialization in entrepreneurship and venture creation) in 2020.                    </p>
                     <i class="fa fa-quote-left" aria-hidden="true"></i>
                   </div>
                 </div>
